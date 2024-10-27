@@ -8,6 +8,9 @@ mod is_palindrome;
 mod string_rotate;
 mod pract12;
 mod shipments;
+mod rectangles;
+mod gray_code;
+mod muxa_slon;
 
 fn main() {
     //rhombus::main();
@@ -19,5 +22,7 @@ fn main() {
     //is_palindrome with test
     //string_rotate with test
     //pract12::main();
-    shipments::main();
+    //shipments::main();
+    //rectangles with test
+    muxa_slon::main();
 }
